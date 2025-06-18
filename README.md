@@ -32,7 +32,7 @@ To run this notebook, you'll need the following Python libraries:
 
 Data Source
 
-The analysis uses data from compressed_data.csv. This dataset appears to contain detailed information about Airbnb listings, including pricing, host details, location, and review metrics.
+The analysis uses data from [compressed_data.csv](https://github.com/TheiScale/YouTube-Video-Notes/blob/main/Air%20bnb%20Project/compressed_data.csv.gz). This dataset appears to contain detailed information about Airbnb listings, including pricing, host details, location, and review metrics.
 
 Conclusion
 
